@@ -34,7 +34,7 @@
    <h2> 5 espécies bastante conhecidas. </h2> 
    <h1 align="left">1° - Boto Cor-de-Rosa. </h1> 
    <figure id="fig1"> 
-    <img src="Extinção/img/06a215f9-f5c0-4547-bd64-28d4cbb3cf45.jfi" alt="Boto-Cor-de-Rosa" style="float:left;width:300px"> 
+    <img src="Extinção/img/06a215f9-f5c0-4547-bd64-28d4cbb3cf45.jfif" alt="Boto-Cor-de-Rosa" style="float:left;width:300px"> 
    </figure> 
    <br> 
    <br> 
